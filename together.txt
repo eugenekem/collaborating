@@ -1,1 +1,3 @@
-This will be a collaboration.
+Executive Summary of my capstone project:
+The growing adoption of electric vehicles (EVs) necessitates the development of smart charging strategies that balance energy costs, grid demand, and renewable availability. This study employs descriptive, predictive and prescriptive modelling to analyse and forecast EV half-hourly consumption, utilising market signals such as wholesale electricity prices, renewable energy share, and total grid generation. A comparison of Linear Regression, Random Forest, and XGBoost determined that XGBoost offers the best balance between accuracy and generalisation, alongside tariff based (price-level-based) charging recommendations
+The results demonstrate that EV charging behaviour is influenced by market price signals. The application of the 3 analytics can enable utilities to optimise smart charging schedules, facilitating dynamic tariff design, demand response strategies, and improved grid management.
